@@ -1,4 +1,4 @@
-* iPhone Animation Website 
+# iPhone Animation Website 
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -24,10 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This project is built using 3D animation in React to simulate the iPhone animations on the official Apple website using GSAP and WebGL powered by Three.js. The framer motion animations were implemented using React.
-
 
 ### Built With
 
